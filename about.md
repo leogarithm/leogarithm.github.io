@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Léo Giroud, I am studying physics in Grenoble, France. Quantum mechanics and quantum information are the subjects I like the most!
+This is my personnal webpage where I share with the world my -mostly interesting- stuff, related to maths, physics, or programmation most of the time.
+You can find me on other platforms, such as Linkedin or Instagram (I like to take pretty pictures).
 
-### More Information
+## Contact me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[grd.leo.99@gmail.com](mailto:grd.leo.99@gmail.com)
